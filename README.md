@@ -36,4 +36,6 @@ sklearn
 statsmodels
 
 ## Contributors
-Pooja Kamath
+Pratham Desai
+
+
